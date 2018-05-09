@@ -13,7 +13,7 @@ After it is installed you can run it from CLI:
 
     $ file_search
 
-Output will be printed in a terminal windows, along with total number of
+Output will be printed in a terminal window, along with total number of
 occurrences and saved in a .csv file for easier browsing of results.
 
 """
